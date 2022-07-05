@@ -4,19 +4,18 @@
 
 Создать parser новостей:
 
-<ul>новости</ul>
-<ul>Поля новостей которые нужно с парсить</ul>
-    <li>id</li>
-    <li>id_site</li>
-    <li>title</li>
-    <li>category</li>
-    <li>category_id</li>
-    <li>desc</li>
-    <li>dt</li>
-    <li>img</li>
-    <li>link</li>
-    <li>date</li>
-    <li>site_name</li>
+<li>Поля новостей которые нужно с парсить</li>
+    <ul>id</ul>
+    <ul>id_site</ul>
+    <ul>title</ul>
+    <ul>category</ul>
+    <ul>category_id</ul>
+    <ul>desc</ul>
+    <ul>dt</ul>
+    <ul>img</ul>
+    <ul>link</ul>
+    <ul>date</ul>
+    <ul>site_name</ul>
 <ul>Сохранить в json</ul></br>
 
 Откуда нужно парсить:</br>
