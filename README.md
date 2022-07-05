@@ -1,6 +1,6 @@
 <h2>Парсер новостей</h3>
 Парсер берет данные с сайта newsline.kg и сохраняет новости<br/> 
-в файле  creation_date_dd_mm_yyyy.json в виде json.<br/>
+в файле  creation_date_dd_mm_yyyy.json в виде json.<br/><br/>
 
 Генерируем URL с лимитом и датой:<br>
 URL = f'http://newsline.kg/getNews.php?limit={limit}&last_dt={datetime.now()}'<br/>
