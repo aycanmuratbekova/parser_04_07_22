@@ -10,11 +10,10 @@ last_dt указывает на текущую дату.<br/>
 
 К примеру задаем limit = 2  -   который получит только два объекта<br/>
 
-При запуске программы срабатывает функция main()  и вызывает collect_data()
-def main():<br/>
-    collect_data()<br/>
+При запуске программы срабатывает функция main()
+которая вызывает collect_data()
 
-def collect_data():<br/>
+<h5>Функция collect_data():</h5><br/>
     """<br/>
     Функция collect_data() получает response-ответ по URL запросу<br/>
     открывает файл с названием  creation_date_04_07_2022.json<br/>
